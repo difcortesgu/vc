@@ -20,7 +20,7 @@
 
 > :Collapse label=Members
 > 
-> [NN](/docs/members/nn)
+> [Farid](/docs/members/farid)
 
 > :Collapse label=Filters Excercise
 >
